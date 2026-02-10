@@ -1,0 +1,8 @@
+import easyocr
+
+reader = easyocr.Reader(['en'])
+
+def extract_text_from_image(image_path: str) -> str:
+    result = reader.readtext(image_path)
+    text = " ".join([item[1] for item in result])
+    return text

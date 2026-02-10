@@ -1,0 +1,35 @@
+```css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.network-info {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.network-info h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.network-info h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #666;
+}
+
+.network-info p {
+    font-size: 16px;
+    color: #999;
+}
+```
+This code creates a simple and clean UI that displays the given text in a centered container with a subtle design. The HTML structure is semantic and easy to read, while the CSS adds basic styling and layout to make the content more visually appealing.

@@ -71,10 +71,10 @@ uvicorn backend.main:app --reload
 Start Streamlit UI
 streamlit run streamlit_app.py
 
-📌 Notes
-Generated AI outputs are excluded from version control
-Environment variables are securely managed
-Designed for real-world scalability
+### 📌 Notes
+Generated AI outputs are excluded from version control.
+Environment variables are securely managed.
+Designed for real-world scalability.
 
-📜 License
+### 📜 License
 This project is for educational and experimental purposes.

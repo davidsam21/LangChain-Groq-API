@@ -65,11 +65,12 @@ Create a .env file:
 GROQ_API_KEY=your_groq_api_key
 
 ### ▶️ Run the Application
+
 Start FastAPI backend
-uvicorn backend.main:app --reload
+- uvicorn backend.main:app --reload
 
 Start Streamlit UI
-streamlit run streamlit_app.py
+- streamlit run streamlit_app.py
 
 ### 📌 Notes
 

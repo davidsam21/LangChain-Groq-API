@@ -49,20 +49,24 @@ langchain_groq_api/
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
+
 git clone https://github.com/davidsam21/LangChain-Groq-API.git
 cd LangChain-Groq-API
 
 ### 2️⃣ Create virtual environment
-python -m venv lib
-lib\Scripts\activate
+
+- python -m venv lib
+- lib\Scripts\activate
 
 ### 3️⃣ Install dependencies
-pip install -r requirements.txt
+
+- pip install -r requirements.txt
 
 ### 4️⃣ Configure environment variables
+
 Create a .env file:
 
-GROQ_API_KEY=your_groq_api_key
+- GROQ_API_KEY=your_groq_api_key
 
 ### ▶️ Run the Application
 

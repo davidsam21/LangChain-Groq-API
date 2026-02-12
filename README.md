@@ -72,9 +72,11 @@ Start Streamlit UI
 streamlit run streamlit_app.py
 
 ### 📌 Notes
-Generated AI outputs are excluded from version control.
-Environment variables are securely managed.
-Designed for real-world scalability.
+
+- Generated AI outputs are excluded from version control.
+- Environment variables are securely managed.
+- Designed for real-world scalability.
 
 ### 📜 License
+
 This project is for educational and experimental purposes.

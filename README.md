@@ -1,14 +1,14 @@
 # LangChain Groq Multimodal AI System
 
 A multimodal AI system built using **LangChain** and the **Groq API**, featuring a **FastAPI backend** and a **Streamlit UI**.  
-The project supports real-time LLM chat and vision-based **image-to-HTML/CSS generation** using a Hugging Face vision model served via Groq.
+The project supports real-time LLM chat and vision-based **image-to-HTML/CSS generation** using a OCR served via Groq.
 
 ---
 
 ## 🚀 Features
 
 - 💬 LLM Chat powered by Groq (via LangChain)
-- 🖼️ Vision route: Convert UI images into HTML & CSS
+- 🖼️ Vision route: Convert UI images into HTML & CSS (OCR)
 - ⚡ FastAPI backend with clean modular services
 - 🎨 Streamlit frontend for Chat + Vision
 - 🧠 Memory-enabled conversations
@@ -21,7 +21,7 @@ The project supports real-time LLM chat and vision-based **image-to-HTML/CSS gen
 - Python
 - LangChain
 - Groq API
-- Hugging Face Vision Model
+- OCR
 - FastAPI
 - Streamlit
 
